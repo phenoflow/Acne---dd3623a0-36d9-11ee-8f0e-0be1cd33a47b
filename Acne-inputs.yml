@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/acne---primary.py
+inputModule3:
+  class: File
+  path: python/acne-varioliformi---primary.py
+inputModule4:
+  class: File
+  path: python/acne-necrotica---primary.py
+inputModule5:
+  class: File
+  path: python/other-acne---primary.py
+inputModule6:
+  class: File
+  path: python/acne-blackhead---primary.py
+inputModule7:
+  class: File
+  path: python/acne-comedo---primary.py
+inputModule8:
+  class: File
+  path: python/acne-unspecified---primary.py
+inputModule9:
+  class: File
+  path: python/acne---secondary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
